@@ -1,0 +1,11 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:me.gamercoder215.battlecards.api////PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api/index.html
+$dokka.location:me.gamercoder215.battlecards.api/BattleConfig.Companion///PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api/-battle-config/-companion/index.html
+$dokka.location:me.gamercoder215.battlecards.api/BattleConfig.Companion/getConfig/#/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api/-battle-config/-companion/get-config.html
+$dokka.location:me.gamercoder215.battlecards.api/BattleConfig.Companion/getDataFolder/#/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api/-battle-config/-companion/get-data-folder.html
+$dokka.location:me.gamercoder215.battlecards.api/BattleConfig.Companion/getPlugin/#/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api/-battle-config/-companion/get-plugin.html
+$dokka.location:me.gamercoder215.battlecards.api/BattleConfig///PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api/-battle-config/index.html
+$dokka.location:me.gamercoder215.battlecards.api/BattleConfig/getLanguage/#/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api/-battle-config/get-language.html
+me.gamercoder215.battlecards.api
+
