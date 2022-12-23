@@ -1,5 +1,19 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
+$dokka.location:me.gamercoder215.battlecards.api.card////PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/index.html
+$dokka.location:me.gamercoder215.battlecards.api.card/BattleCard.Companion///PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/-battle-card/-companion/index.html
+$dokka.location:me.gamercoder215.battlecards.api.card/BattleCard.Companion/getCard/#org.bukkit.entity.EntityType/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/-battle-card/-companion/get-card.html
+$dokka.location:me.gamercoder215.battlecards.api.card/BattleCard.ZOMBIE///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}battlecards-api/me.gamercoder215.battlecards.api.card/-battle-card/-z-o-m-b-i-e/index.html
+$dokka.location:me.gamercoder215.battlecards.api.card/BattleCard///PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/-battle-card/index.html
+$dokka.location:me.gamercoder215.battlecards.api.card/BattleCard/getType/#/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/-battle-card/get-type.html
+$dokka.location:me.gamercoder215.battlecards.api.card/BattleCard/valueOf/#kotlin.String/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/-battle-card/value-of.html
+$dokka.location:me.gamercoder215.battlecards.api.card/BattleCard/values/#/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/-battle-card/values.html
+$dokka.location:me.gamercoder215.battlecards.api.card/CardStats///PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/-card-stats/index.html
+$dokka.location:me.gamercoder215.battlecards.api.card/CardStats/equals/#kotlin.Any?/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/-card-stats/equals.html
+$dokka.location:me.gamercoder215.battlecards.api.card/CardStats/getDefense/#/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/-card-stats/get-defense.html
+$dokka.location:me.gamercoder215.battlecards.api.card/CardStats/getLuck/#/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/-card-stats/get-luck.html
+$dokka.location:me.gamercoder215.battlecards.api.card/CardStats/getStrength/#/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/-card-stats/get-strength.html
+$dokka.location:me.gamercoder215.battlecards.api.card/CardStats/hashCode/#/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api.card/-card-stats/hash-code.html
 $dokka.location:me.gamercoder215.battlecards.api////PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api/index.html
 $dokka.location:me.gamercoder215.battlecards.api/BattleConfig.Companion///PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api/-battle-config/-companion/index.html
 $dokka.location:me.gamercoder215.battlecards.api/BattleConfig.Companion/getConfig/#/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api/-battle-config/-companion/get-config.html
@@ -8,4 +22,5 @@ $dokka.location:me.gamercoder215.battlecards.api/BattleConfig.Companion/getPlugi
 $dokka.location:me.gamercoder215.battlecards.api/BattleConfig///PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api/-battle-config/index.html
 $dokka.location:me.gamercoder215.battlecards.api/BattleConfig/getLanguage/#/PointingToDeclaration/battlecards-api/me.gamercoder215.battlecards.api/-battle-config/get-language.html
 me.gamercoder215.battlecards.api
+me.gamercoder215.battlecards.api.card
 
